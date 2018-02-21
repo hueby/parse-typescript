@@ -1,0 +1,67 @@
+{
+  "_from": "@types/parse@^2.4.5",
+  "_id": "@types/parse@2.4.5",
+  "_inBundle": false,
+  "_integrity": "sha512-yaPR7tDpgFruqkDGdcekoVCsa1UrhBbJ7YZiVnBy86jYWkH4NGbkTbuikKqFHTf10x/V4oOJEuJqktJIaowcuA==",
+  "_location": "/@types/parse",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "@types/parse@^2.4.5",
+    "name": "@types/parse",
+    "escapedName": "@types%2fparse",
+    "scope": "@types",
+    "rawSpec": "^2.4.5",
+    "saveSpec": null,
+    "fetchSpec": "^2.4.5"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "http://141.51.193.188:5817/@types%2fparse/-/parse-2.4.5.tgz",
+  "_shasum": "527d851f525692b9270681958032ea7af53d0969",
+  "_spec": "@types/parse@^2.4.5",
+  "_where": "/Users/dennis/Projekte/mensajs",
+  "bundleDependencies": false,
+  "contributors": [
+    {
+      "name": "Ullisen Media Group",
+      "url": "http://ullisenmedia.com"
+    },
+    {
+      "name": "David Poetzsch-Heffter",
+      "url": "https://github.com/dpoetzsch"
+    },
+    {
+      "name": "Cedric Kemp",
+      "url": "https://github.com/jaeggerr"
+    },
+    {
+      "name": "Flavio Negrão",
+      "url": "https://github.com/flavionegrao"
+    },
+    {
+      "name": "Wes Grimes",
+      "url": "https://github.com/wesleygrimes"
+    }
+  ],
+  "dependencies": {
+    "@types/jquery": "*",
+    "@types/node": "*",
+    "@types/underscore": "*"
+  },
+  "deprecated": false,
+  "description": "TypeScript definitions for parse",
+  "license": "MIT",
+  "main": "",
+  "name": "@types/parse",
+  "repository": {
+    "type": "git",
+    "url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+  },
+  "scripts": {},
+  "typeScriptVersion": "2.4",
+  "typesPublisherContentHash": "e41562572cec41244bbce68e4a94e9d9a45bd78ada2dd81cee7db4454622f943",
+  "version": "2.4.5"
+}
